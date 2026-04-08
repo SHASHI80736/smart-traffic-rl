@@ -89,7 +89,7 @@ python demo.py
 
 ---
 
-## Team Nyra
+## Team Meta Morphosis
 
 | Name | Role |
 |---|---|
