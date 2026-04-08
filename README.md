@@ -35,6 +35,6 @@ pip install torch numpy matplotlib
 python traffic_rl.py
 
 ## Team
-- [Your Name] — Team Lead
-- [Member 2]
-- [Member 3]
+- Shashidhar S Hugar — Team Lead
+- Sharan Kumar K S
+- Santosh Ryaka
