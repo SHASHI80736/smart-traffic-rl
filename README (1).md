@@ -1,7 +1,7 @@
 # Smart Traffic Signal Controller — Deep RL
 
 > Meta Scalar School of Technology Hackathon | Round 1 Submission  
-> Team: Nyra | Track: Reinforcement Learning
+> Team: Meta Morphosis | Track: Reinforcement Learning
 
 ---
 
@@ -93,8 +93,8 @@ python demo.py
 
 | Name | Role |
 |---|---|
-| [Your Name] | Team Lead & Developer |
-| [Member 2] | Developer |
-| [Member 3] | Developer |
+| Shashidhar S Hugar | Team Lead & Developer |
+| Sharan Kumar K S | Developer |
+| Santosh Ryaka | Developer |
 
 Institution: VVCE, Mysuru
