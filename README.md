@@ -91,10 +91,10 @@ python demo.py
 
 ## Team Meta Morphosis
 
-| Name | Role |
-|---|---|
-| Shashidhar S Hugar | Team Lead & Developer |
-| Sharan Kumar K S | Developer |
-| Santosh Ryaka | Developer |
+| Name |
+|---|
+| Shashidhar S Hugar |
+| Sharan Kumar K S |
+| Santosh Ryaka |
 
 Institution: VVCE, Mysuru
